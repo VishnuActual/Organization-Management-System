@@ -1,0 +1,8 @@
+# Ignore the virtual environment folder
+myenv/
+
+# Ignore the Django migration files
+*/migrations/
+
+# Ignore Python cache files
+__pycache__/
